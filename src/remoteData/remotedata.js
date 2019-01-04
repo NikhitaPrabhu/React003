@@ -11,6 +11,7 @@ class RestAPI extends React.Component {
         }
         this.getRemoteData=this.getRemoteData.bind(this)
         //this.getRemoteData=this.displayFriends.bind(this)
+        
     }
     componentWillMount(){
         this.getRemoteData()

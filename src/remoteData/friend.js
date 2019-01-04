@@ -21,3 +21,4 @@ class Friend extends React.Component {
 }
  
 export default Friend;
+
