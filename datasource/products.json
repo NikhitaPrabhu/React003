@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "samsung",
+      "upvote": 10,
+      "downvote": 8,
+      "description": "handy tool kit ofr creative people"
+    },
+    {
+      "id": 2,
+      "name": "nokia",
+      "upvote": 60,
+      "downvote": 10,
+      "description": "Modern ancestor of devices"
+    },
+    {
+      "id": 2,
+      "name": "Dailer",
+      "upvote": 11,
+      "downvote": 80,
+      "description": "round round figure phioine"
+    },
+    {
+      "name": "abc",
+      "upvote": "23",
+      "downvote": "45",
+      "description": "szdfg",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "upvote": "23",
+      "downvote": "45",
+      "description": "szdfg",
+      "id": 4
+    },
+    {
+      "name": "szdgfvdazsf",
+      "upvote": "23",
+      "downvote": "45",
+      "description": "szdfg",
+      "id": 5
+    },
+    {
+      "name": "ZSDGv",
+      "upvote": "34",
+      "downvote": "34",
+      "description": "sADgf",
+      "id": 6
+    },
+    {
+      "name": "serg",
+      "upvote": "43",
+      "downvote": "43",
+      "description": "dzfg",
+      "id": 7
+    },
+    {
+      "name": "serg",
+      "upvote": "43",
+      "downvote": "43",
+      "description": "dzfg",
+      "id": 8
+    },
+    {
+      "name": "ppppp",
+      "upvote": "43",
+      "downvote": "43",
+      "description": "dzfg",
+      "id": 9
+    }
+  ]
+}
